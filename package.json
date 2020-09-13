@@ -1,0 +1,21 @@
+{
+  "name": "eslint-config-jensrott",
+  "version": "1.0.0",
+  "description": "Personal ESLint config",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jensrott/eslint-config-jensrott.git"
+  },
+  "author": "Jens Rottiers <jens.rottiers@outlook.be>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^7.9.0"
+  },
+  "dependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint-plugin-babel": "^5.3.1",
+    "eslint-plugin-import": "^2.22.0",
+    "eslint-plugin-react": "^7.20.6"
+  }
+}
