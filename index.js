@@ -46,7 +46,6 @@ module.exports = {
     semi: [`error`, `always`],
     "semi-spacing": [`error`, { after: false, before: false }],
     "space-before-blocks": `error`,
-    "space-in-parens": [`error`, `never`],
     "space-infix-ops": `error`,
     "space-unary-ops": [`error`, {
       nonwords: true,
