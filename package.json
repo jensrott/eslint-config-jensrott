@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-jensrott",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Personal ESLint config",
   "main": "index.js",
   "repository": {

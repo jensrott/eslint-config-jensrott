@@ -42,7 +42,7 @@ module.exports = {
     "prefer-const": `error`,
     "prefer-template": `error`,
     "quote-props": [`error`, `as-needed`],
-    quotes: [`error`, `prefer-single`],
+    quotes: [`error`, `single`],
     semi: [`error`, `always`],
     "semi-spacing": [`error`, { after: false, before: false }],
     "space-before-blocks": `error`,

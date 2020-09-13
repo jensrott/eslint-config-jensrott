@@ -1,3 +1,5 @@
 /node_modules
 yarn.lock
 npm-debug.log
+push_repo.sh
+publish_package.sh
